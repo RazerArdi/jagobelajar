@@ -196,7 +196,7 @@ const LoginArea = () => {
                         .
                       </p>
                       <ReCAPTCHA
-                        sitekey="6Lea05ApAAAAAMXSofAWx7CCqYelmmK8RQzzsjmM"
+                                              sitekey="6LdoULYqAAAAAImONmDVr9GOVA5ocZTzWT7WFT3W"
                         onChange={handleRecaptchaChange}
                       />
                       <button

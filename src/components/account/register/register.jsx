@@ -276,7 +276,7 @@ const RegisterArea = () => {
                                                 </div>
                                                 <p className="form-group pt-10"><strong>Gambar harus JPG/PNG, rasio 1:1 (misalnya, 500x500 piksel), dan tidak lebih dari 8MB.</strong></p>
                                                 <ReCAPTCHA
-                                                    sitekey="6Lea05ApAAAAAMXSofAWx7CCqYelmmK8RQzzsjmM"
+                                                    sitekey="6LdoULYqAAAAAImONmDVr9GOVA5ocZTzWT7WFT3W"
                                                     onChange={handleRecaptchaChange}
                                                 />
                                                 <button type="submit" className="btn mt-10" style={{ backgroundColor: '#111F2C', color: '#ffffff' }}>
