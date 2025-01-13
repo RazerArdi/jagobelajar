@@ -4,7 +4,7 @@ import HeaderOne from "@/src/layout/headers/header";
 import HeaderTwo from "@/src/layout/headers/header_3_user";
 import Breadcrumb from "@/src/common/breadcrumbs/breadcrumb_5";
 import Footer from "@/src/layout/footers/footer";
-import CourseDetailPage from "./CourseId";
+import CourseDetailPage from "../../../../../src/pages/kursus/[id]";
 import useAuth from "../../../../../Database/Auth/auth";
 import { useRouter } from "next/router";
 
